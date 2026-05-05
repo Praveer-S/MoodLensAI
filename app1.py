@@ -1,5 +1,6 @@
 import streamlit as st
 import nest_asyncio
+nest_asyncio.apply()
 from ai4free import BLACKBOXAI
 import time
 nest_asyncio.apply()
