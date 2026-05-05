@@ -1,6 +1,9 @@
 import streamlit as st
+import nest_asyncio
 from ai4free import BLACKBOXAI
 import time
+nest_asyncio.apply()
+
 
 # Initialize the AI Provider (No API Key needed!)
 ai = BLACKBOXAI(is_conversation=True)
