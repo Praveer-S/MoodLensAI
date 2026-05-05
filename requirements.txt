@@ -1,2 +1,4 @@
 streamlit
+textblob
 ai4free
+webscout
