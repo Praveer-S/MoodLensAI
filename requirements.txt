@@ -2,3 +2,4 @@ streamlit
 textblob
 ai4free
 webscout
+curl_cffi
