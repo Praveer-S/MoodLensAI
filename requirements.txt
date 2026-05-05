@@ -5,3 +5,5 @@ webscout
 curl_cffi
 nest_asyncio
 httpx
+requests
+beautifulsoup4
