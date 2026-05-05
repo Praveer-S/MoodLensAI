@@ -1,4 +1,3 @@
-streamlit
-textblob
+
 streamlit
 ai4free
